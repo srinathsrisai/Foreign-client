@@ -1,2 +1,2 @@
-City= Chennai
-State= Tamilnadu
+City= 
+State= 
