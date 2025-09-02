@@ -1,4 +1,4 @@
-#ADD TWO NUMBERS PROGRAM
+# ADD TWO NUMBERS PROGRAM
 import java.util.Scanner;
 
 public class AddTwoNumbers {
